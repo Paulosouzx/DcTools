@@ -1,0 +1,14 @@
+C:\Users\paulo\DcBot\csharpbot\bin\Debug\net8.0\csharpbot.exe
+C:\Users\paulo\DcBot\csharpbot\bin\Debug\net8.0\csharpbot.deps.json
+C:\Users\paulo\DcBot\csharpbot\bin\Debug\net8.0\csharpbot.runtimeconfig.json
+C:\Users\paulo\DcBot\csharpbot\bin\Debug\net8.0\csharpbot.dll
+C:\Users\paulo\DcBot\csharpbot\bin\Debug\net8.0\csharpbot.pdb
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\csharpbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\csharpbot.AssemblyInfoInputs.cache
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\csharpbot.AssemblyInfo.cs
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\csharpbot.csproj.CoreCompileInputs.cache
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\csharpbot.dll
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\refint\csharpbot.dll
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\csharpbot.pdb
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\csharpbot.genruntimeconfig.cache
+C:\Users\paulo\DcBot\csharpbot\obj\Debug\net8.0\ref\csharpbot.dll
